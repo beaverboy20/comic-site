@@ -2,24 +2,30 @@
   "name": "comic-site",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://<YOUR_GITHUB_USERNAME>.github.io/comic-site",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
+    "build:export": "next build && next export",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build:export",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
-    "next": "^13.5.0",
+    "framer-motion": "^10.12.16",
+    "next": "^16.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "stripe": "^12.14.0",
-    "framer-motion": "^10.12.16"
+    "stripe": "^12.14.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.24",
-    "tailwindcss": "^3.4.5",
     "eslint": "^8.39.0",
-    "eslint-config-next": "^13.5.0"
+    "eslint-config-next": "^13.5.0",
+    "gh-pages": "^5.0.0",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.4.5"
   }
 }

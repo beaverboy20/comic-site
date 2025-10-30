@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/about": "pages/about.js",
+  "/api/checkout_sessions": "pages/api/checkout_sessions.js",
+  "/cart": "pages/cart.js",
+  "/checkout-cancel": "pages/checkout-cancel.js",
+  "/checkout-success": "pages/checkout-success.js",
+  "/comics/[id]": "pages/comics/[id].js",
+  "/": "pages/index.js",
+  "/news": "pages/news.js",
+  "/shop": "pages/shop.js",
+  "/_document": "pages/_document.js"
+}

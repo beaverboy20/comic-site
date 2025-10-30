@@ -1,0 +1,75 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/NFPx2IRxOfeXy3NZ2WUiP/_buildManifest.js",
+    "static/NFPx2IRxOfeXy3NZ2WUiP/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-09181f6ea0f3c0b8.js",
+      "static/chunks/framework-fae63b21a27d6472.js",
+      "static/chunks/main-f4712bd57a210f87.js",
+      "static/chunks/pages/index-eb27a0c944847f7e.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-09181f6ea0f3c0b8.js",
+      "static/chunks/framework-fae63b21a27d6472.js",
+      "static/chunks/main-f4712bd57a210f87.js",
+      "static/chunks/pages/_app-089ae3549476507d.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-09181f6ea0f3c0b8.js",
+      "static/chunks/framework-fae63b21a27d6472.js",
+      "static/chunks/main-f4712bd57a210f87.js",
+      "static/chunks/pages/_error-ee5b5fb91d29d86f.js"
+    ],
+    "/about": [
+      "static/chunks/webpack-09181f6ea0f3c0b8.js",
+      "static/chunks/framework-fae63b21a27d6472.js",
+      "static/chunks/main-f4712bd57a210f87.js",
+      "static/chunks/pages/about-1dbf768c15fbe3ed.js"
+    ],
+    "/cart": [
+      "static/chunks/webpack-09181f6ea0f3c0b8.js",
+      "static/chunks/framework-fae63b21a27d6472.js",
+      "static/chunks/main-f4712bd57a210f87.js",
+      "static/chunks/pages/cart-66004d647d0a98b9.js"
+    ],
+    "/checkout-cancel": [
+      "static/chunks/webpack-09181f6ea0f3c0b8.js",
+      "static/chunks/framework-fae63b21a27d6472.js",
+      "static/chunks/main-f4712bd57a210f87.js",
+      "static/chunks/pages/checkout-cancel-47a3c7529b44e169.js"
+    ],
+    "/checkout-success": [
+      "static/chunks/webpack-09181f6ea0f3c0b8.js",
+      "static/chunks/framework-fae63b21a27d6472.js",
+      "static/chunks/main-f4712bd57a210f87.js",
+      "static/chunks/pages/checkout-success-a0d899fcc5afd8ae.js"
+    ],
+    "/comics/[id]": [
+      "static/chunks/webpack-09181f6ea0f3c0b8.js",
+      "static/chunks/framework-fae63b21a27d6472.js",
+      "static/chunks/main-f4712bd57a210f87.js",
+      "static/chunks/pages/comics/[id]-f152d9c21b96ecf8.js"
+    ],
+    "/news": [
+      "static/chunks/webpack-09181f6ea0f3c0b8.js",
+      "static/chunks/framework-fae63b21a27d6472.js",
+      "static/chunks/main-f4712bd57a210f87.js",
+      "static/chunks/pages/news-c8e65e1aefcfdcac.js"
+    ],
+    "/shop": [
+      "static/chunks/webpack-09181f6ea0f3c0b8.js",
+      "static/chunks/framework-fae63b21a27d6472.js",
+      "static/chunks/main-f4712bd57a210f87.js",
+      "static/chunks/pages/shop-f477c5f1b0388b92.js"
+    ]
+  },
+  "ampFirstPages": []
+}
