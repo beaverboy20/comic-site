@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" fill="none">
+  <rect width="100%" height="100%" fill="#0b0b0b"/>
+  <rect x="20" y="20" width="360" height="560" fill="#111827" rx="6"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#e11d48" font-size="28" font-family="Arial" dy=".3em">Hollow Lands</text>
+</svg>
